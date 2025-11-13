@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子书整理/README.md",
+                "file": "Illustration/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电子书整理/README.md",
+                "file": "Illustration/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -136,17 +136,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,34 +160,42 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "595ee9592c63b275",
+  "active": "fd2f9d29ce5c65c5",
   "lastOpenFiles": [
-    "软件整理/README.md",
+    "conflict-files-obsidian-git.md",
+    "Illustration/README.md",
+    "website/最新网站集合（新年礼物）By 阿.md",
+    "website/README.md",
+    "software/游戏/Windows/README.md",
+    "media/README.md",
+    "software/游戏/Android/README.md",
+    "software/README.md",
+    "tutorials/科学上网教程整理.md",
+    "tutorials/特殊网站教程整理.md",
+    "tutorials/未命名.md",
+    "tutorials/文档",
+    "README.MD",
+    "tutorials/~$大学毕业论文（写给萌新男娘的玩具推荐避坑指南）by 幽靈.docx",
+    "_collection/README.md",
+    "_collection/【百度秒传】公hao所有未炸汁源下载-（注意！使用请参照群文件秒传使用教程）.txt",
+    "_collection",
+    "website/常用资源网站合集03.xlsx",
+    "website/常用资源网站合集01.xlsx",
+    "website/常用资源网站合集02.xlsx",
+    "website",
+    "Illustration/0501he.xlsx",
+    "Illustration/0429he.xlsx",
+    "software/游戏/多端/README.md",
+    "tutorial/科学上网教程整理.md",
+    "tutorial/特殊网站教程整理.md",
+    "e-books/README.md",
     "电子书整理/README.md",
-    "电子书整理/【论文】/基于想象力的萝莉足部气味与口感研究——以FAVORITE部分女主为例.pdf",
-    "电子书整理/【论文】/基于想象力的萝莉足部气味与口感研究——以FAVORITE部分女主为例(2).pdf",
-    "电子书整理/【数据】/附录1：原始数据.pdf",
-    "电子书整理/【数据】/附录2：经过筛选的数据.pdf",
+    "软件整理/README.md",
     "_综合资源整理/README.md",
     "视频整理/README.md",
     "教程整理/特殊网站教程整理.md",
     "教程整理/科学上网教程整理.md",
     "网站整理/最新网站集合（新年礼物）By 阿.md",
-    "网站整理/README.md",
-    "README.MD",
-    "图集整理/README.md",
-    "软件整理/游戏/多端/README.md",
-    "软件整理/游戏/Android/README.md",
-    "软件整理/游戏/Windows/README.md",
-    "新建文本文档.txt",
-    "README.md",
-    "软件整理/游戏/Windows",
-    "软件整理/游戏/【Android】游戏整理.md",
-    "软件整理/游戏/~$【多端】50000GB游戏合集.xlsx",
-    "软件整理/游戏/【多端】50000GB游戏合集.xlsx",
-    "软件整理/游戏/50000GB游戏合集.xlsx",
-    "教程整理/百度秒传教程/度盘秒传教程-手机端-基于火狐-3分钟附工具.rar",
-    "软件整理/Windows/游戏整理.md",
-    "软件整理/游戏/游戏整理.md"
+    "网站整理/README.md"
   ]
 }

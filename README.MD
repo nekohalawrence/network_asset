@@ -1,10 +1,10 @@
 ---
+Created date: 2025-02-08 17:37
+Modified date: 2025-11-13 12:47
 author: XiaoE
-date: 2025-01-25 16:44
-updated: 2025-01-26 23:17
-modified by: XiaoE
 ---
 # network_asset
+
 - 整理网友的网络资产，帮助后来的新人快速寻找资源。
 - 非本人存储资源，只是收集各个网友分享的资源
 
@@ -24,10 +24,12 @@ modified by: XiaoE
 | [网站整理](https://github.com/LaolunsiG/network_asset/tree/main/%E7%BD%91%E7%AB%99%E6%95%B4%E7%90%86)           |     |
 
 ## 期待加入
+
 - 如果你对这个项目有兴趣，可以 fork 编辑。
 
 ## 其他
-- 请自行了解如何[科学上网](https://github.com/LaolunsiG/network_asset/blob/main/%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86.md)。
+
+- 请自行了解如何 [科学上网](https://github.com/LaolunsiG/network_asset/blob/main/%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86.md)。
 
 ## 优秀项目推荐
 
